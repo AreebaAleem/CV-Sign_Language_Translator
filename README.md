@@ -1,7 +1,7 @@
-# **Pakistani Sign Language Translator**
+# **Sign Language Translator**
 
 ## **Project Overview**
-Welcome to the **Pakistani Sign Language Translator** project repository. This initiative is a part of our Computer Vision semester coursework, developed with MATLAB. Here, we document our journey and the milestones we achieve in creating a tool that can translate Pakistani Sign Language gestures into text.
+Welcome to the **Sign Language Translator** project repository. This initiative is a part of our Computer Vision semester coursework, developed with MATLAB. Here, we document our journey and the milestones we achieve in creating a tool that can translate Pakistani Sign Language gestures into text.
 
 ## **Mission**
 Our mission is to develop a translator that not only recognizes gestures with high accuracy but also provides a seamless translation experience. We aim to empower the deaf community in Pakistan by offering them a means to communicate more effectively with the wider society.
